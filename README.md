@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Alavish Pasunuri
 
-Welcome to my GitHub profile! I'm a recent Computer Science graduate with a passion for software engineering and a keen interest in building innovative solutions. I'm actively seeking opportunities as a software engineer to contribute my skills and knowledge to exciting projects.
+Welcome to my GitHub profile! I'm a Computer Science graduate with a passion for software engineering and a keen interest in building innovative solutions. I'm actively seeking opportunities as a software engineer to contribute my skills and knowledge to exciting projects.
 
 ## About Me
 
@@ -10,10 +10,11 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate with a pass
 
 ## Skills
 
-- Programming: Java, JavaScript, Python , OOP 
-- Web Development: HTML, CSS, React
-- Databases: SQL, MySQL
-- Tools: Git, VS Code, Jira
+- Programming: Java, JavaScript, TypeScript, C#, Python, C, C++, Go, SQL, OOP, MATLAB.
+- Web Development: HTML5, CSS3, React.js, Angular, jQuery, Node.js, AEM, WordPress, Bootstrap, PHP, XML, ASP.NET. Tools/Framework/API: Git, Agile methodologies, Spring, Microservices,     Docker, Kubernetes, GitHub, Selenium, Jenkins, Maven, Jira, Eclipse, IntelliJ, RESTful API, Elasticsearch, Kibana, Splunk, VS Code, MS Office.
+- Operating Systems: Windows OS, MacOS, Linux/Unix.
+- Cloud & Database: Amazon Web Services (AWS), Microsoft Azure, Oracle, MySQL, MangoDB, SQL Server.
+
 <!---
 ## Projects
 
